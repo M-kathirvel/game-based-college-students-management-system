@@ -46,9 +46,6 @@ The app helps students navigate the campus, understand complex procedures, meet 
 
 ### Installation
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/Kishkindhan-A/game-based-college-students-management-system.git
-   ```
 2. Open the project in **Android Studio**.
 3. Sync the project with **Gradle files**.
 4. Run the app on your device/emulator.
